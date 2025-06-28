@@ -1,0 +1,10 @@
+.header {
+background-color: bisque;
+
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+
+}
